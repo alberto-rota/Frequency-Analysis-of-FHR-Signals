@@ -1,0 +1,2 @@
+# Frequency Analysis of FHR Signals
+ The analysis of a fetal HR (FHR) signal represents a non-invasive fundamental tool for the monitoring of fetal conditions in the antepartum period. In this work we apply both parametric and non-parametric methods for a PSD evaluation, in order to analyze the FHR signals of 5 healthy fetuses and 5 fetuses suffering for IUGR (IntraUterine Growth Restriction). An application of a non-linear algorithm, such as approximate entropy, is reported too. Our results are in agreement with previous works present in literature.
