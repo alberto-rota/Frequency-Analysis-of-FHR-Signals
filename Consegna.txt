@@ -1,0 +1,2 @@
+You are provided with 10 CTG recordings as the ones employed in the two papers provided. 
+Traces were acquired at 2 Hz and labelled as healthy or IUGR depending on the clinical diagnosis at birth (5 healthy and 5 IUGR fetuses).
